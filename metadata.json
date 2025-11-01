@@ -1,0 +1,5 @@
+{
+  "name": "SmartCafé",
+  "description": "An interactive cafe menu ordering application with an AI-powered smart assistant for menu recommendations.",
+  "requestFramePermissions": []
+}
